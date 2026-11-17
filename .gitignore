@@ -1,5 +1,7 @@
 # Игнорируемые файлы для git
 venv/
+.venv/
+.local/
 __pycache__/
 *.pyc
 .env
